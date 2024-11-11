@@ -1,0 +1,6 @@
+fruit:Apple
+vehicle:car
+language:python
+flower:rose
+object:book
+waterbody:ocean

@@ -1,0 +1,6 @@
+Apple : fruit
+car: vehicle
+python : language
+rose : flower
+book : object
+ocean : waterbody
